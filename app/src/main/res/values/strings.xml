@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ghost Power Munch</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_away">Away</string>
+    <string name="title_home">Home</string>
+    <string name="text_toggle">Power</string>
+    <string name="text_plant">Lightbulb plant</string>
+</resources>
